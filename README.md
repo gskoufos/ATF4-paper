@@ -1,2 +1,2 @@
-# The code used to analyse the scRNA-Seq and ChIP-Seq datasets
+# scRNA-Seq and ChIP-Seq analyses - Verginadis et al.
 
