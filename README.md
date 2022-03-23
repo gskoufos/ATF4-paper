@@ -1,3 +1,3 @@
-# scRNA-Seq and ChIP-Seq analyses - Verginadis et al.
+# scRNA-Seq, ChIP-Seq and Correlation analysis - Verginadis et al.
 
 Scripts to reproduce the results of the manuscript
